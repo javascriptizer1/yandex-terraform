@@ -1,5 +1,5 @@
 # Local .terraform directories
-**/.terraform/*
+**/.terraform
 
 # .tfstate files
 *.tfstate
@@ -35,3 +35,4 @@ terraform.rc
 
 # Keys
 authorized_key.json
+storage.key
